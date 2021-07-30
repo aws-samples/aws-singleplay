@@ -1,5 +1,7 @@
 # Welcome to AWS Singleplay Workshop
 
+![Architecture](./architecture.png)
+
 This sample includes how to integrate AWS services on their single-application especially for Mobile environment.
 
 Client developers who do not know much about backend service implementation could easily try this sample for their application to use AWS on their service.
