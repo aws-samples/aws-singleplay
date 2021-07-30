@@ -45,6 +45,13 @@ It is important to import dll into Assets>Plugin folder. Because Unity editor on
 
 [!] Or You can also use UnityPackage.unitypackage file to implement whole working demo into your environment.
 
+## Questions?
+
+If you have any queries, please feel free to contact us.
+
+- Author : jinspark@amazon.com
+- Korea Gaming Team : korea-gaming-sa@amazon.com
+
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
