@@ -1,0 +1,6 @@
+{
+    "ApiUrl": "https://q3c77ppoub.execute-api.ap-northeast-2.amazonaws.com",
+    "UserPoolId": "ap-northeast-2_CuDcoHcOs",
+    "IdentityPoolId": "ap-northeast-2:e24cf210-e9f9-4d5b-acb3-61addd174431",
+    "ClientId": "1ghadksm6pafb8b5q1vk1qsuf3"
+}
