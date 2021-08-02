@@ -1,10 +1,12 @@
-# Welcome to AWS Singleplay Workshop
+# Welcome to AWS Singleplay Application Workshop
 
 ![Architecture](./architecture.png)
 
 This sample includes how to integrate AWS services on their single-application especially for Mobile environment.
 
 Client developers who do not know much about backend service implementation could easily try this sample for their application to use AWS on their service.
+
+[!] In this sample, we are trying to make it with a simple indie game, but this sample-architecture can cover most of applications.
 
 ## This sample Includes
 
@@ -18,9 +20,9 @@ Client developers who do not know much about backend service implementation coul
 
 You can try this sample with Web-based workshop this link. 
 
-EN : [http://jinspark-game-starter-workshop.s3-website-us-east-1.amazonaws.com/en/](http://jinspark-game-starter-workshop.s3-website-us-east-1.amazonaws.com/en/)
+EN : [Workshop Link (English)](http://jinspark-game-starter-workshop.s3-website-us-east-1.amazonaws.com/en/)
 
-KO : [http://jinspark-game-starter-workshop.s3-website-us-east-1.amazonaws.com/ko/](http://jinspark-game-starter-workshop.s3-website-us-east-1.amazonaws.com/ko/)
+KO : [Workshop Link (Korean)](http://jinspark-game-starter-workshop.s3-website-us-east-1.amazonaws.com/ko/)
 
 [!] Workshop link can be migrated to .aws domain. Please watch this repository. :) 
 
