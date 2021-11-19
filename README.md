@@ -20,6 +20,8 @@ Client developers who do not know much about backend service implementation coul
 
 You can try this sample with Web-based workshop this link. I recommend you to join Workshop Studio link.
 
+Workshop Video : [Video](https://d1zrwss8zuawdm.cloudfront.net/SinglePlayAppDemo.mp4)
+
 EN : 
 - [Workshop Studio (English)](https://catalog.us-east-1.prod.workshops.aws/v2/workshops/73584592-51c4-43b3-9c25-53b1a8dcdbba/en-US/intro)
 - [Workshop Link (English)](http://jinspark-game-starter-workshop.s3-website-us-east-1.amazonaws.com/en/)
